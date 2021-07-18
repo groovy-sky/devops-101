@@ -9,9 +9,12 @@ This repository contains an information, questions and exercises on various tech
 ## Prerequisites
 
 ### MSDN accounts benefits
+
 https://my.visualstudio.com/benefits
 
 ### Github account
+
+https://github.com/signup
 
 ### Azure account
 
@@ -51,6 +54,12 @@ https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-stu
 https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 
 ### Linux
+
+https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
+
+https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
+
+https://linuxjourney.com/
 
 ### Virtualization
 
