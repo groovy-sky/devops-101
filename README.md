@@ -6,6 +6,19 @@
 ## Introduction
 This repository contains an information, questions and exercises on various technical/DevOps related topics.
 
+## Prerequisites
+
+### MSDN accounts benefits
+https://my.visualstudio.com/benefits
+
+### Github account
+
+### Azure account
+
+### Pluralsight account
+
+### Microsoft Learn account
+
 ## 
 ### DevOps
 
@@ -49,3 +62,9 @@ https://www.ibm.com/cloud/learn/infrastructure-as-code
 
 https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
 
+
+### Azure
+
+https://app.pluralsight.com/labs/detail/3ede6f2e-1eea-406f-89f9-35e8f55b9c23/toc
+
+https://app.pluralsight.com/labs/detail/e417b99b-2afb-44f7-9dfd-6e6b5f120f49/toc
