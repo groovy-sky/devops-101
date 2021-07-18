@@ -33,6 +33,10 @@ https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/
 
 https://learngitbranching.js.org/
 
+https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/
+
+https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
+
 ### Linux
 
 ### Virtualization
@@ -40,3 +44,8 @@ https://learngitbranching.js.org/
 ### Infrastructure as Code
 
 https://www.ibm.com/cloud/learn/infrastructure-as-code
+
+### Programming
+
+https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
+
