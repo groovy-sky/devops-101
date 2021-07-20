@@ -53,6 +53,13 @@ https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-stu
 
 https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 
+#### Homework
+
+1. Fork this repository
+2. Clone forked repository to your computer
+3. Modify README.md file on your machine (by appending it with "Hello World!" line)
+4. Commit and push changes to remote Github repository (forked one, not original)
+
 ### Linux
 
 https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
@@ -61,7 +68,7 @@ https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
 
 https://linuxjourney.com/
 
-#### Home Task
+#### Homework
 
 1. Deploy a Linux environmet (could be a Virtual Machine, Container Instance, Windows Subsystem for Linux etc.)
 2. Install some webserver and reconfigure it so it would run on a custom port (like 8088)
