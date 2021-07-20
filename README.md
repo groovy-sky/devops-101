@@ -53,7 +53,7 @@ https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-stu
 
 https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 
-#### Homework
+#### Git Homework
 
 1. Fork this repository
 2. Clone forked repository to your computer
@@ -68,7 +68,7 @@ https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
 
 https://linuxjourney.com/
 
-#### Homework
+#### Linux Homework
 
 1. Deploy a Linux environmet (could be a Virtual Machine, Container Instance, Windows Subsystem for Linux etc.)
 2. Install some webserver and reconfigure it so it would run on a custom port (like 8088)
