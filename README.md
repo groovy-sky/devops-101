@@ -22,7 +22,7 @@ https://github.com/signup
 
 ### Microsoft Learn account
 
-## 
+## Learning Areas
 ### DevOps
 
 https://devops.com/the-origins-of-devops-whats-in-a-name/
@@ -60,6 +60,12 @@ https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsyste
 https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
 
 https://linuxjourney.com/
+
+#### Home Task
+
+1. Deploy a Linux environmet (could be a Virtual Machine, Container Instance, Windows Subsystem for Linux etc.)
+2. Install some webserver and reconfigure it so it would run on a custom port (like 8088)
+3. Configure and apply a custom response page for the webserver (something like "Hello World!")
 
 ### Virtualization
 
