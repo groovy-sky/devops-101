@@ -57,8 +57,8 @@ https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 
 1. Fork this repository
 2. Clone forked repository to your local environment (could be PC, Virtual Machine, WSL etc.)
-3. Modify README.md file on your machine (by appending it with "Hello World!" line)
-4. Commit and push changes to remote Github repository (forked one, not original)
+3. Locally create a new branch and modify README.md file in it (by appending it with "Hello World!" line)
+4. Commit and push all changes to remote Github repository (forked one, not original one)
 
 ### Linux
 
