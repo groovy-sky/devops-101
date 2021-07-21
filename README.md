@@ -54,9 +54,9 @@ https://www.youtube.com/watch?v=Mvr9jTTnJrU
 ### Containers Homework
 
 1. Create Dockerfile (base image can be any prefferable Linux image) in which a webserver is installed and started 
-2. Bbuild an image from the Dockerfile and run the container (don't forget to expose port for HTTP)
+2. Bbuild an image from the Dockerfile (for that you'll need installed Docker Engine) and run the container (don't forget to expose port for HTTP)
 3. Validate that you can access the webserver
-4. Publish your image to your Docker Hub Registry
+4. Publish your image to your Docker Hub Registry (for that you'll need account in Docker Registry)
 
 ### Git
 
