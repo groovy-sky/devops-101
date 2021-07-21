@@ -75,6 +75,17 @@ https://www.youtube.com/watch?v=Mvr9jTTnJrU
 3. Validate that you can access the webserver
 4. Publish your image to your Docker Hub Registry (for that you'll need account in Docker Registry)
 
+### Continuous Integration (CI)
+
+https://aws.amazon.com/devops/continuous-integration/
+
+https://lab.github.com/githubtraining/github-actions:-hello-world
+
+#### Continuous Integration Homework
+
+1. Create a new Github repository
+2. Create Github Action, which builds Dockerfile and publishes it in Docker Hub Registry once every day.
+
 ### DevOps
 
 https://devops.com/the-origins-of-devops-whats-in-a-name/
