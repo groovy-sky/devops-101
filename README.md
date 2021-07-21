@@ -43,6 +43,10 @@ https://www.ibm.com/cloud/learn/containers
 
 https://www.ibm.com/cloud/learn/docker
 
+https://www.youtube.com/watch?v=6gJs0F8V3tM
+
+https://www.youtube.com/watch?v=Mvr9jTTnJrU
+
 ### Git
 
 https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/
