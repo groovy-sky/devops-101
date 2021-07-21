@@ -83,8 +83,8 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 
 #### Continuous Integration Homework
 
-1. Create a new Github repository
-2. Create Github Action, which builds Dockerfile and publishes it in Docker Hub Registry once every day.
+1. Create a new Github repository.
+2. Create and configure Github Action, which builds Dockerfile and publishes it in Docker Hub Registry once every day.
 
 ### DevOps
 
@@ -94,7 +94,6 @@ https://www.ibm.com/cloud/learn/devops-a-complete-guide
 
 https://aws.amazon.com/devops/what-is-devops/#integration
 
-### Continuous Integration and Continuous Delivery
 ### Infrastructure as Code
 
 https://www.ibm.com/cloud/learn/infrastructure-as-code
