@@ -1,62 +1,41 @@
 # DevOps-101
 
-## Contents
-
-
 ## Introduction
 This repository contains an information, questions and exercises on various technical/DevOps related topics.
 
 ## Prerequisites
 
-### MSDN accounts benefits
+* MSDN accounts benefits
 
 https://my.visualstudio.com/benefits
 
-### Github account
+* Github account
 
 https://github.com/signup
 
-### Azure account
+* Azure account
 
-### Pluralsight account
+* Pluralsight account
 
-### Microsoft Learn account
+* Microsoft Learn account
 
-### Docker Hub Account
+* Docker Hub Account
 
-## Learning Areas
-### DevOps
+## Learning Path
 
-https://devops.com/the-origins-of-devops-whats-in-a-name/
+### Linux
 
-https://www.ibm.com/cloud/learn/devops-a-complete-guide
+https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
 
-https://aws.amazon.com/devops/what-is-devops/#integration
+https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
 
-### Continuous Integration and Continuous Delivery
+https://linuxjourney.com/
 
-### Virtualization
+#### Linux Homework
 
-https://www.ibm.com/cloud/learn/virtualization-a-complete-guide
-
-### Containers
-
-https://www.ibm.com/cloud/learn/containers
-
-https://www.ibm.com/cloud/learn/docker
-
-https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/
-
-https://www.youtube.com/watch?v=6gJs0F8V3tM
-
-https://www.youtube.com/watch?v=Mvr9jTTnJrU
-
-### Containers Homework
-
-1. Create Dockerfile (base image can be any prefferable Linux image) in which a webserver is installed and started 
-2. Build an image from the Dockerfile (for that you'll need installed Docker Engine) and run the container (don't forget to expose port for HTTP)
-3. Validate that you can access the webserver
-4. Publish your image to your Docker Hub Registry (for that you'll need account in Docker Registry)
+1. Deploy a Linux environmet (could be a Virtual Machine, Container Instance, Windows Subsystem for Linux etc.)
+2. Install some webserver and reconfigure it so it would run on a custom port (like 8088)
+3. Configure and apply a custom response page for the webserver (something like "Hello World!")
 
 ### Git
 
@@ -75,22 +54,36 @@ https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 3. Locally create a new branch and modify README.md file in it (by appending it with "Hello World!" line)
 4. Commit and push all changes to remote Github repository (forked one, not original one)
 
-### Linux
+### Containerisation
 
-https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
+https://www.ibm.com/cloud/learn/virtualization-a-complete-guide
 
-https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
+https://www.ibm.com/cloud/learn/containers
 
-https://linuxjourney.com/
+https://www.ibm.com/cloud/learn/docker
 
-#### Linux Homework
+https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/
 
-1. Deploy a Linux environmet (could be a Virtual Machine, Container Instance, Windows Subsystem for Linux etc.)
-2. Install some webserver and reconfigure it so it would run on a custom port (like 8088)
-3. Configure and apply a custom response page for the webserver (something like "Hello World!")
+https://www.youtube.com/watch?v=6gJs0F8V3tM
 
-### Virtualization
+https://www.youtube.com/watch?v=Mvr9jTTnJrU
 
+#### Containerisation Homework
+
+1. Create Dockerfile (base image can be any prefferable Linux image) in which a webserver is installed and started 
+2. Build an image from the Dockerfile (for that you'll need installed Docker Engine) and run the container (don't forget to expose port for HTTP)
+3. Validate that you can access the webserver
+4. Publish your image to your Docker Hub Registry (for that you'll need account in Docker Registry)
+
+### DevOps
+
+https://devops.com/the-origins-of-devops-whats-in-a-name/
+
+https://www.ibm.com/cloud/learn/devops-a-complete-guide
+
+https://aws.amazon.com/devops/what-is-devops/#integration
+
+### Continuous Integration and Continuous Delivery
 ### Infrastructure as Code
 
 https://www.ibm.com/cloud/learn/infrastructure-as-code
