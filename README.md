@@ -5,13 +5,9 @@ This repository contains an information, questions and exercises on various tech
 
 ## Prerequisites
 
-* MSDN accounts benefits
+* [MSDN accounts benefits](https://my.visualstudio.com/benefits)
 
-https://my.visualstudio.com/benefits
-
-* Github account
-
-https://github.com/signup
+* [Github account](https://github.com/signup)
 
 * Azure account
 
@@ -98,9 +94,17 @@ https://aws.amazon.com/devops/what-is-devops/#integration
 
 https://www.ibm.com/cloud/learn/infrastructure-as-code
 
+https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
+
 ### Programming
 
 https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
+
+
+### Ansible
+
+https://docs.microsoft.com/en-us/azure/developer/ansible/
+
 
 
 ### Azure
