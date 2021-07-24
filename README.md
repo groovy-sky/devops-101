@@ -105,7 +105,9 @@ https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
 
 https://docs.microsoft.com/en-us/azure/developer/ansible/
 
+https://developers.redhat.com/courses/ansible/getting-started
 
+https://docs.ansible.com/ansible/latest/user_guide/index.html#get
 
 ### Azure
 
