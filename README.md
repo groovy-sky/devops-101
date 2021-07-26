@@ -5,6 +5,8 @@ This repository contains an information, questions and exercises on various tech
 
 ## Prerequisites
 
+Accounts:
+
 * [MSDN accounts benefits](https://my.visualstudio.com/benefits)
 
 * [Github account](https://github.com/signup)
@@ -16,6 +18,16 @@ This repository contains an information, questions and exercises on various tech
 * Microsoft Learn account
 
 * Docker Hub Account
+
+Software:
+
+* Some linux-based environment
+
+* Azure CLI
+
+* Docker Engine
+
+* Git
 
 ## Learning Path
 
@@ -96,7 +108,11 @@ https://aws.amazon.com/devops/what-is-devops/#integration
 
 https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/
 
+https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/
+
 https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli
+
+
 
 ### Infrastructure as Code
 
