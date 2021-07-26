@@ -90,6 +90,14 @@ https://www.ibm.com/cloud/learn/devops-a-complete-guide
 
 https://aws.amazon.com/devops/what-is-devops/#integration
 
+### Azure
+
+#### Identity
+
+https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/
+
+https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli
+
 ### Infrastructure as Code
 
 https://www.ibm.com/cloud/learn/infrastructure-as-code
@@ -113,7 +121,7 @@ https://developers.redhat.com/courses/openshift-operators/ansible-review
 
 https://developers.redhat.com/courses/ansible/web-server
 
-### Azure
+### Other
 
 https://app.pluralsight.com/labs/detail/3ede6f2e-1eea-406f-89f9-35e8f55b9c23/toc
 
