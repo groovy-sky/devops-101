@@ -94,17 +94,9 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 1. Create a new Github repository.
 2. Create and configure Github Action, which builds Dockerfile and publishes it in Docker Hub Registry once every day.
 
-### DevOps
-
-https://devops.com/the-origins-of-devops-whats-in-a-name/
-
-https://www.ibm.com/cloud/learn/devops-a-complete-guide
-
-https://aws.amazon.com/devops/what-is-devops/#integration
-
 ### Azure
 
-#### Identity
+#### Access and Security
 
 https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/
 
@@ -112,7 +104,24 @@ https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-id
 
 https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli
 
+https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/
 
+https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
+
+#### Access and Security Homework
+
+1. Register a new application in Azure Active Directory.
+2. Generate and store a secret for the application.
+3. Create a Key Vault and grant access to the application: on resouce level - Contributor role, on Vault level - policy which would allow to create and read secrets.
+4. Using non-GUI approach (Powershell, Azure CLI etc.): authenticate to Azure using application's credentials; create a new secret, read it, delete the whole Key Vault. 
+
+### DevOps
+
+https://devops.com/the-origins-of-devops-whats-in-a-name/
+
+https://www.ibm.com/cloud/learn/devops-a-complete-guide
+
+https://aws.amazon.com/devops/what-is-devops/#integration
 
 ### Infrastructure as Code
 
