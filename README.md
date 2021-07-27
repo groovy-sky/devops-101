@@ -96,6 +96,13 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 
 ### Azure
 
+#### Intro
+
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/
+
+https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
+
+
 #### Access and Security
 
 https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/
@@ -114,6 +121,12 @@ https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
 2. Generate and store a secret for the application.
 3. Create a Key Vault and grant access to the application: on resouce level - Contributor role, on Vault level - policy which would allow to create and read secrets.
 4. Using non-GUI approach (Powershell, Azure CLI etc.): authenticate to Azure using application's credentials; create a new secret, read it, delete the whole Key Vault. 
+
+#### ARM Templates
+
+https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/
+
+https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/
 
 ### DevOps
 
