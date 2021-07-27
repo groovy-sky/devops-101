@@ -134,7 +134,7 @@ https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-git
 ##### ARM Templates Homework
 
 1. Create a new Key Vault and add a secret with some value, which will be used as virtual machines password
-2. Deploy [DNS Forwarder](https://azure.microsoft.com/en-us/resources/templates/dns-forwarder/) with your own template, which for an user password would use Key Vault refference
+2. Deploy [DNS Forwarder](https://azure.microsoft.com/en-us/resources/templates/dns-forwarder/) with your own parameters file, which for an user password would use Key Vault refference
 3. Check the result by logging in VM using a password from the Key Vault
 
 ### DevOps
