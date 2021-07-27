@@ -100,8 +100,9 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 
 https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/
 
-https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
+https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
 
+https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
 
 #### Access and Security
 
@@ -115,7 +116,7 @@ https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vau
 
 https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
 
-#### Access and Security Homework
+##### Access and Security Homework
 
 1. Register a new application in Azure Active Directory.
 2. Generate and store a secret for the application.
@@ -127,6 +128,8 @@ https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
 https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/
 
 https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/
+
+
 
 ### DevOps
 
@@ -145,7 +148,6 @@ https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
 ### Programming
 
 https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
-
 
 ### Ansible
 
