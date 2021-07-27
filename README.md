@@ -127,9 +127,15 @@ https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
 
 https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/
 
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli
+
 https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/
 
+##### ARM Templates Homework
 
+1. Create a new Key Vault and add a secret with some value, which will be used as virtual machines password
+2. Deploy [DNS Forwarder](https://azure.microsoft.com/en-us/resources/templates/dns-forwarder/) with your own template, which for an user password would use Key Vault refference
+3. Check the result by logging in VM using a password from the Key Vault
 
 ### DevOps
 
