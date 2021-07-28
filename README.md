@@ -168,6 +168,28 @@ https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-t
 
 #### Serverless
 
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-container-instances/
+
+https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=azure-cli%2Cbash%2Cbrowser
+
+https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/
+
+https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image?tabs=bash%2Cportal&pivots=programming-language-python
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-networking-options
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
+
+##### Serverless Homework
+
+
+
+
+### Azure DevOps
+
+
 
 ### DevOps
 
