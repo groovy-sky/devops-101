@@ -184,8 +184,8 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-a
 
 ##### Serverless Homework
 
-
-
+1. Deploy [function for showing your public IP](https://www.serverlesslibrary.net/sample/b85aac2c-4ac5-4c00-9cf6-6c68841c00e5) and check how it works
+2. Configure the same function but as a custom Docker container, deploy that image to Azure Container Instance with public IP address and exposed HTTP port and validate the result
 
 ### Azure DevOps
 
