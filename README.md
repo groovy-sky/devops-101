@@ -137,6 +137,38 @@ https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-git
 2. Deploy [DNS Forwarder](https://azure.microsoft.com/en-us/resources/templates/dns-forwarder/) with your own parameters file, which for an user password would use Key Vault refference
 3. Check the result by logging in VM using a password from the Key Vault
 
+#### Networks
+
+https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/
+
+https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/
+
+https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/
+
+https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/
+
+https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/
+
+https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/2-implement-hub-spoke
+
+https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/
+
+https://docs.microsoft.com/en-us/learn/modules/configure-network-routing-endpoints/
+
+https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/
+
+##### Networks Homework
+
+1. Create two VNets with different IP ranges (which doesn't overlap) and a storage account
+2. Expose storage account's fileshare privately (using private endpoint) on both networks
+3. Establish between networks VNet peering
+4. Create two virtual machines - one in the first network with public IP and another in the second network without public IP
+5. Connect remotely to publicly available machine and using it connect to the privately available VM
+6. From both VMs resolve privately exposed fileshare (using nslookup or any other prefferable way) and validate that in both cases IP is private
+
+#### Serverless
+
+
 ### DevOps
 
 https://devops.com/the-origins-of-devops-whats-in-a-name/
