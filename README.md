@@ -36,7 +36,9 @@ Software:
 
 ## Learning Path
 
-### ![](img/devops.png) DevOps
+### DevOps
+
+![](img/devops.png) 
 
 https://devops.com/the-origins-of-devops-whats-in-a-name/
 
@@ -44,7 +46,9 @@ https://www.ibm.com/cloud/learn/devops-a-complete-guide
 
 https://aws.amazon.com/devops/what-is-devops/#integration
 
-### ![](img/linux.png) Linux
+### Linux
+
+![](img/linux.png)
 
 https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
 
@@ -59,6 +63,8 @@ https://linuxjourney.com/
 3. Configure and apply a custom response page for the webserver (something like "Hello World!")
 
 ### Git
+
+![](img/git.png)
 
 https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/
 
@@ -75,7 +81,9 @@ https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 3. Locally create a new branch and modify README.md file in it (by appending it with "Hello World!" line)
 4. Commit and push all changes to remote Github repository (forked one, not original one)
 
-### ![](img/python.png) Python
+### Python
+
+![](img/python.png) 
 
 https://docs.microsoft.com/en-us/learn/modules/python-introduction/
 
@@ -85,7 +93,9 @@ https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operatio
 
 https://www.coursera.org/learn/interactive-python-1
 
-### ![](img/containers.png) Containerisation
+### Containerisation
+
+![](img/containers.png)
 
 https://www.ibm.com/cloud/learn/virtualization-a-complete-guide
 
@@ -108,6 +118,8 @@ https://www.youtube.com/watch?v=Mvr9jTTnJrU
 
 ### Continuous Integration (CI)
 
+![](img/ci.png)
+
 https://aws.amazon.com/devops/continuous-integration/
 
 https://lab.github.com/githubtraining/github-actions:-hello-world
@@ -117,7 +129,9 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 1. Create a new Github repository.
 2. Create and configure Github Action, which builds Dockerfile and publishes it in Docker Hub Registry once every day.
 
-### ![](img/azure.png) Azure
+### Azure
+
+![](img/azure.png)
 
 #### Intro
 
@@ -214,19 +228,23 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-a
 
 ### Azure DevOps
 
+![](img/azure_devops.png) 
+
 https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/
 
 https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/
 
 https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
 
-#### ![](img/azure_devops.png)  Azure DevOps Homework
+####  Azure DevOps Homework
 
 1. Create [a new organization and project in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops).
 2. Deploy and configure [self-hosted build agent on Azure Container Instance](https://github.com/groovy-sky/azure/blob/master/devops-docker-build-00/README.md#introduction).
 3. Use self-hosted agent for [deploying a Python web app](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
-### ![](img/ansible.png) Ansible
+### Ansible
+
+![](img/ansible.png)
 
 https://docs.microsoft.com/en-us/azure/developer/ansible/
 
