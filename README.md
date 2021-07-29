@@ -62,6 +62,10 @@ https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 3. Locally create a new branch and modify README.md file in it (by appending it with "Hello World!" line)
 4. Commit and push all changes to remote Github repository (forked one, not original one)
 
+### Python
+
+https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
+
 ### Containerisation
 
 https://www.ibm.com/cloud/learn/virtualization-a-complete-guide
@@ -157,6 +161,8 @@ https://docs.microsoft.com/en-us/learn/modules/configure-network-routing-endpoin
 
 https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/
 
+https://docs.microsoft.com/en-us/azure/load-balancer/components
+
 ##### Networks Homework
 
 1. Create two VNets with different IP ranges (which doesn't overlap) and a storage account
@@ -189,7 +195,15 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-a
 
 ### Azure DevOps
 
+https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/
 
+https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/
+
+https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
+
+#### Azure DevOps Homework
+
+https://github.com/groovy-sky/azure/blob/master/devops-docker-build-00/README.md#introduction
 
 ### DevOps
 
@@ -198,16 +212,6 @@ https://devops.com/the-origins-of-devops-whats-in-a-name/
 https://www.ibm.com/cloud/learn/devops-a-complete-guide
 
 https://aws.amazon.com/devops/what-is-devops/#integration
-
-### Infrastructure as Code
-
-https://www.ibm.com/cloud/learn/infrastructure-as-code
-
-https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
-
-### Programming
-
-https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
 
 ### Ansible
 
@@ -221,8 +225,20 @@ https://developers.redhat.com/courses/openshift-operators/ansible-review
 
 https://developers.redhat.com/courses/ansible/web-server
 
-### Other
+https://docs.ansible.com/ansible/latest/scenario_guides/guide_azure.html
 
-https://app.pluralsight.com/labs/detail/3ede6f2e-1eea-406f-89f9-35e8f55b9c23/toc
+### Ansible Homework
 
-https://app.pluralsight.com/labs/detail/e417b99b-2afb-44f7-9dfd-6e6b5f120f49/toc
+Optional - https://raw.githubusercontent.com/microsoft/AnsibleLabs/master/lab-runbook.pdf and https://github.com/microsoft/AnsibleLabs
+
+### Infrastructure as Code
+
+https://www.ibm.com/cloud/learn/infrastructure-as-code
+
+https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
+
+### Infrastructure as Code Homework
+
+https://github.com/groovy-sky/iaac-demo
+
+
