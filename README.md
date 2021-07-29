@@ -1,7 +1,12 @@
 # DevOps-101
 
 ## Introduction
-This repository contains an information, questions and exercises on various technical/DevOps related topics.
+
+This repository is designed to help anyone with very little or no computing background learn the basics of DevOps. When you’re finished with this document, you’ll know how to manage resouces in Azure Cloud, using Infrastructure as Code approach. 
+
+Learning path is just a collection of publicly available courses, grouped by a specific topic. Some section have homework part - you can use it for a self-evalution. 
+
+if you have any questions regarding this tutorial, please do not hesitate to contact me (using [Reddit](https://www.reddit.com/user/groovy-sky),[Linkedin](https://www.linkedin.com/in/jurijs-fadejevs/) or by pushing pull request to this repository).
 
 ## Prerequisites
 
@@ -26,6 +31,14 @@ Software:
 * [Git](https://git-scm.com/downloads)
 
 ## Learning Path
+
+### DevOps
+
+https://devops.com/the-origins-of-devops-whats-in-a-name/
+
+https://www.ibm.com/cloud/learn/devops-a-complete-guide
+
+https://aws.amazon.com/devops/what-is-devops/#integration
 
 ### Linux
 
@@ -206,14 +219,6 @@ https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
 #### Azure DevOps Homework
 
 https://github.com/groovy-sky/azure/blob/master/devops-docker-build-00/README.md#introduction
-
-### DevOps
-
-https://devops.com/the-origins-of-devops-whats-in-a-name/
-
-https://www.ibm.com/cloud/learn/devops-a-complete-guide
-
-https://aws.amazon.com/devops/what-is-devops/#integration
 
 ### Ansible
 
