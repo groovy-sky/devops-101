@@ -265,6 +265,8 @@ https://docs.ansible.com/ansible/latest/scenario_guides/guide_azure.html
 
 ### Infrastructure as Code
 
+![](img/iac.png)
+
 https://www.ibm.com/cloud/learn/infrastructure-as-code
 
 https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
