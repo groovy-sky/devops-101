@@ -36,7 +36,7 @@ Software:
 
 ## Learning Path
 
-### DevOps
+### ![](img/devops.png) DevOps
 
 https://devops.com/the-origins-of-devops-whats-in-a-name/
 
@@ -44,7 +44,7 @@ https://www.ibm.com/cloud/learn/devops-a-complete-guide
 
 https://aws.amazon.com/devops/what-is-devops/#integration
 
-### Linux
+### ![](img/linux.png) Linux
 
 https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
 
@@ -75,7 +75,7 @@ https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 3. Locally create a new branch and modify README.md file in it (by appending it with "Hello World!" line)
 4. Commit and push all changes to remote Github repository (forked one, not original one)
 
-### Python
+### ![](img/python.png) Python
 
 https://docs.microsoft.com/en-us/learn/modules/python-introduction/
 
@@ -85,7 +85,7 @@ https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operatio
 
 https://www.coursera.org/learn/interactive-python-1
 
-### Containerisation
+### ![](img/containers.png) Containerisation
 
 https://www.ibm.com/cloud/learn/virtualization-a-complete-guide
 
@@ -117,7 +117,7 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 1. Create a new Github repository.
 2. Create and configure Github Action, which builds Dockerfile and publishes it in Docker Hub Registry once every day.
 
-### Azure
+### ![](img/azure.png) Azure
 
 #### Intro
 
@@ -220,13 +220,13 @@ https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/
 
 https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
 
-#### Azure DevOps Homework
+#### ![](img/azure_devops.png)  Azure DevOps Homework
 
 1. Create [a new organization and project in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops).
 2. Deploy and configure [self-hosted build agent on Azure Container Instance](https://github.com/groovy-sky/azure/blob/master/devops-docker-build-00/README.md#introduction).
 3. Use self-hosted agent for [deploying a Python web app](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
-### Ansible
+### ![](img/ansible.png) Ansible
 
 https://docs.microsoft.com/en-us/azure/developer/ansible/
 
