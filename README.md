@@ -60,7 +60,13 @@ https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 
 ### Python
 
-https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
+https://docs.microsoft.com/en-us/learn/modules/python-introduction/
+
+https://www.learnpython.org/en/Welcome
+
+https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/
+
+https://www.coursera.org/learn/interactive-python-1
 
 ### Containerisation
 
@@ -225,7 +231,8 @@ https://docs.ansible.com/ansible/latest/scenario_guides/guide_azure.html
 
 ### Ansible Homework
 
-Optional - https://raw.githubusercontent.com/microsoft/AnsibleLabs/master/lab-runbook.pdf and https://github.com/microsoft/AnsibleLabs
+1. Install [Ansible with Azure modules](https://docs.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm)
+2. Choose some ARM template from [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/?sort=Popular) and deploy it using [azure_rm_deployment](https://docs.ansible.com/ansible/latest/collections/azure/azcollection/azure_rm_deployment_module.html#azure-rm-deployment-module)
 
 ### Infrastructure as Code
 
