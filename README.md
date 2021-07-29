@@ -11,23 +11,19 @@ Accounts:
 
 * [Github account](https://github.com/signup)
 
-* Azure account
+* [Azure account](https://azure.microsoft.com/en-us/free/)
 
-* Pluralsight account
-
-* Microsoft Learn account
-
-* Docker Hub Account
+* [Docker Hub Account](https://hub.docker.com/signup)
 
 Software:
 
-* Some linux-based environment
+* Some linux-based environment (like [Ubuntu](https://ubuntu.com/), [Fedora](https://getfedora.org/), [Suse](https://www.suse.com/) etc.)
 
-* Azure CLI
+* Some software for managing Azure (like [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli), [Azure Powershell](https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps), [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview) etc.)
 
-* Docker Engine
+* [Docker Engine](https://docs.docker.com/engine/install/)
 
-* Git
+* [Git](https://git-scm.com/downloads)
 
 ## Learning Path
 
