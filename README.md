@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![logo.png]()
+
 This repository is designed to help anyone with very little or no computing background learn the basics of DevOps. Course is self-paced and when you’re finished with it, you’ll know how to manage resouces in Azure Cloud, using Infrastructure as Code approach. 
 
 Learning path is just a collection of publicly available courses, grouped by a specific topic. Some section have homework part - you can use it for a self-evalution. 
