@@ -40,21 +40,16 @@ Software:
 
 ![](img/devops.png) 
 
-https://devops.com/the-origins-of-devops-whats-in-a-name/
-
-https://www.ibm.com/cloud/learn/devops-a-complete-guide
-
-https://aws.amazon.com/devops/what-is-devops/#integration
+1. [The Origins of DevOps](https://devops.com/the-origins-of-devops-whats-in-a-name/)
+2. [Guid to DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
+3. [DevOps Model from Amazon](https://aws.amazon.com/devops/what-is-devops/#integration)
 
 ### Linux
 
 ![](img/linux.png)
 
-https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
-
-https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
-
-https://linuxjourney.com/
+1. [Running Windows Subsystem for Linux](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/)
+2. [Linux Fundametals](https://linuxjourney.com/)
 
 #### Linux Homework
 
@@ -66,13 +61,10 @@ https://linuxjourney.com/
 
 ![](img/git.png)
 
-https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/
-
-https://learngitbranching.js.org/
-
-https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/
-
-https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
+1. [Introduction to Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
+2. [Learn Git Branching](https://learngitbranching.js.org/)
+3. [Introduction to GitHub in Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/)
+4. [Working with Git in Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/)
 
 #### Git Homework
 
@@ -85,29 +77,20 @@ https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/
 
 ![](img/python.png) 
 
-https://docs.microsoft.com/en-us/learn/modules/python-introduction/
-
-https://www.learnpython.org/en/Welcome
-
-https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/
-
-https://www.coursera.org/learn/interactive-python-1
+1. [What is Python?](https://docs.microsoft.com/en-us/learn/modules/python-introduction/)
+2. [LearnPython.org interactive Python tutorial](https://www.learnpython.org/en/Welcome)
+3. [Perform mathematical operations on numeric data in Python](https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/)
+4. [An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1)
 
 ### Containerisation
 
 ![](img/containers.png)
 
-https://www.ibm.com/cloud/learn/virtualization-a-complete-guide
-
-https://www.ibm.com/cloud/learn/containers
-
-https://www.ibm.com/cloud/learn/docker
-
-https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/
-
-https://www.youtube.com/watch?v=6gJs0F8V3tM
-
-https://www.youtube.com/watch?v=Mvr9jTTnJrU
+1. [What is virtualization?](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide)
+2. [What are containers?](https://www.ibm.com/cloud/learn/containers)
+3. [What is Docker?](https://www.ibm.com/cloud/learn/docker)
+4. [Introduction to Docker containers](https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/)
+5. [Containers for Beginners](https://youtu.be/6gJs0F8V3tM)
 
 #### Containerisation Homework
 
@@ -120,9 +103,8 @@ https://www.youtube.com/watch?v=Mvr9jTTnJrU
 
 ![](img/ci.png)
 
-https://aws.amazon.com/devops/continuous-integration/
-
-https://lab.github.com/githubtraining/github-actions:-hello-world
+1. [Continuous Integration Explained](https://aws.amazon.com/devops/continuous-integration/)
+2. [Create your first GitHub Action](https://lab.github.com/githubtraining/github-actions:-hello-world)
 
 #### Continuous Integration Homework
 
@@ -135,23 +117,18 @@ https://lab.github.com/githubtraining/github-actions:-hello-world
 
 #### Intro
 
-https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/
-
-https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
-
-https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
+1. [Introduction to Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/)
+2. [Create an Azure account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/)
+3. [Manage services with the Azure portal](https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/)
 
 #### Access and Security
 
-https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/
 
-https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/
-
-https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli
-
-https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/
-
-https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
+1. [Services and identity types of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/)
+2. [Service Principals vs Managed Identities](https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/)
+3. [Create a service principal](https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli)
+4. [Manage secrets with Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/)
+5. [Azure role-based access control](https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/)
 
 ##### Access and Security Homework
 
@@ -162,11 +139,9 @@ https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
 
 #### ARM Templates
 
-https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/
-
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli
-
-https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/
+1. [Deploy resources using ARM template](https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/)
+2. [Use Azure Key Vault to pass secure parameters](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli)
+3. [Deploy ARM templates by using GitHub Actions](https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/)
 
 ##### ARM Templates Homework
 
@@ -176,25 +151,13 @@ https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-git
 
 #### Networks
 
-https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/
-
-https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/
-
-https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/
-
-https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/
-
-https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/
-
-https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/2-implement-hub-spoke
-
-https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/
-
-https://docs.microsoft.com/en-us/learn/modules/configure-network-routing-endpoints/
-
-https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/
-
-https://docs.microsoft.com/en-us/azure/load-balancer/components
+1. [Fundamentals of computer networking](https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/)
+2. [Connect on-prem to Azure using VPN Gateway](https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/)
+3. [Connect on-prem to Azure using ExpressRoute](https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/)
+5. [Design an IP addressing schema](https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/)
+6. [Intro to VNet peering](https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/)
+7. [Hub and Spoke topology](https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/2-implement-hub-spoke)
+8. [Design and implement private access to Azure Services](https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/)
 
 ##### Networks Homework
 
@@ -207,19 +170,12 @@ https://docs.microsoft.com/en-us/azure/load-balancer/components
 
 #### Serverless
 
-https://docs.microsoft.com/en-us/learn/modules/configure-azure-container-instances/
-
-https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=azure-cli%2Cbash%2Cbrowser
-
-https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/
-
-https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/
-
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image?tabs=bash%2Cportal&pivots=programming-language-python
-
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-networking-options
-
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
+1. [Choose the right integration and automation services in Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs)
+2. [Configure Azure Container Instances](https://docs.microsoft.com/en-us/learn/modules/configure-azure-container-instances/)
+3. [Publish Azure Functions by using Azure Functions Core Tools](https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/)
+4. [ Create a Python function in Azure from the command line](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=azure-cli%2Cbash%2Cbrowser)
+5. [Monitor GitHub events by using a webhook with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/)
+6. [Create a function on Linux using a custom container](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image?tabs=bash%2Cportal&pivots=programming-language-python)
 
 ##### Serverless Homework
 
@@ -230,11 +186,9 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-a
 
 ![](img/azure_devops.png) 
 
-https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/
-
-https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/
-
-https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
+1. [Introduction to Azure DevOps](https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/)
+2. [Implement CI/CD with Azure DevOps](https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/)
+3. [Host your own build agent in Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/host-build-agent/)
 
 ####  Azure DevOps Homework
 
@@ -246,17 +200,11 @@ https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
 
 ![](img/ansible.png)
 
-https://docs.microsoft.com/en-us/azure/developer/ansible/
-
-https://developers.redhat.com/courses/ansible/getting-started
-
-https://docs.ansible.com/ansible/latest/user_guide/index.html#get
-
-https://developers.redhat.com/courses/openshift-operators/ansible-review
-
-https://developers.redhat.com/courses/ansible/web-server
-
-https://docs.ansible.com/ansible/latest/scenario_guides/guide_azure.html
+1. [Ansible Introduction](https://developers.redhat.com/courses/ansible/getting-started)
+2. [Ansible Review](https://developers.redhat.com/courses/openshift-operators/ansible-review)
+3. [Run web server using Ansible](https://developers.redhat.com/courses/ansible/web-server)
+4. [Ansible User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html#get)
+5. [Configure Ansible on an Azure VM](https://docs.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli)
 
 ### Ansible Homework
 
@@ -267,12 +215,10 @@ https://docs.ansible.com/ansible/latest/scenario_guides/guide_azure.html
 
 ![](img/iac.png)
 
-https://www.ibm.com/cloud/learn/infrastructure-as-code
-
-https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
+[What is Infrastructure as Code (IaC)?](https://www.ibm.com/cloud/learn/infrastructure-as-code)
 
 ### Infrastructure as Code Homework
 
-https://github.com/groovy-sky/iaac-demo
+Configure and deploy [your own IaC](https://github.com/groovy-sky/iaac-demo)
 
 
