@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is designed to help anyone with very little or no computing background learn the basics of DevOps. When you’re finished with this document, you’ll know how to manage resouces in Azure Cloud, using Infrastructure as Code approach. 
+This repository is designed to help anyone with very little or no computing background learn the basics of DevOps. Course is self-paced and when you’re finished with it, you’ll know how to manage resouces in Azure Cloud, using Infrastructure as Code approach. 
 
 Learning path is just a collection of publicly available courses, grouped by a specific topic. Some section have homework part - you can use it for a self-evalution. 
 
@@ -29,6 +29,8 @@ Software:
 * [Docker Engine](https://docs.docker.com/engine/install/)
 
 * [Git](https://git-scm.com/downloads)
+
+* [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html)
 
 ## Learning Path
 
@@ -218,7 +220,9 @@ https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
 
 #### Azure DevOps Homework
 
-https://github.com/groovy-sky/azure/blob/master/devops-docker-build-00/README.md#introduction
+1. Create [a new organization and project in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops).
+2. Deploy and configure [self-hosted build agent on Azure Container Instance](https://github.com/groovy-sky/azure/blob/master/devops-docker-build-00/README.md#introduction).
+3. Use self-hosted agent for [deploying a Python web app](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
 ### Ansible
 
