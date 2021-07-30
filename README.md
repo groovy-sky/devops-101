@@ -14,11 +14,9 @@ if you have any questions regarding this tutorial, please do not hesitate to con
 
 Accounts:
 
-* [MSDN accounts benefits](https://my.visualstudio.com/benefits)
-
 * [Github account](https://github.com/signup)
 
-* [Azure account](https://azure.microsoft.com/en-us/free/)
+* [Microsoft/Azure account](https://azure.microsoft.com/en-us/free/)
 
 * [Docker Hub Account](https://hub.docker.com/signup)
 
