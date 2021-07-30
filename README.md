@@ -41,7 +41,7 @@ Software:
 ![](img/devops.png) 
 
 1. [The Origins of DevOps](https://devops.com/the-origins-of-devops-whats-in-a-name/)
-2. [Guid to DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
+2. [Guide to DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 3. [DevOps Model from Amazon](https://aws.amazon.com/devops/what-is-devops/#integration)
 
 ### Linux
