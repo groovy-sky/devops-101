@@ -219,4 +219,12 @@ Software:
 
 Configure and deploy [your own IaC](https://github.com/groovy-sky/iaac-demo)
 
+## Next steps
 
+Congratulations! You have successfully completed this course! Now you can explore Azure by yourself. If you still wondering where to start, check following resources:
+
+* [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
+* [Small blog about Azure](https://github.com/groovy-sky/azure#introduction)
+* [John Savill's Youtube channel](https://www.youtube.com/user/NTFAQGuy)
+* [Azure updates](https://azure.microsoft.com/en-us/updates/)
+* [Azure Weekly newsletter](https://azureweekly.info/)
