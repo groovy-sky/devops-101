@@ -78,7 +78,7 @@ Software:
 1. [What is Python?](https://docs.microsoft.com/en-us/learn/modules/python-introduction/)
 2. [LearnPython.org interactive Python tutorial](https://www.learnpython.org/en/Welcome)
 3. [Perform mathematical operations on numeric data in Python](https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/)
-4. [An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1)
+4. [Optional][Advanced] [An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1)
 
 ### Containerisation
 
