@@ -69,7 +69,7 @@ Software:
 1. Fork this repository
 2. Clone forked repository to your local environment (could be PC, Virtual Machine, WSL etc.)
 3. Locally create a new branch and modify README.md file in it (by appending it with "Hello World!" line)
-4. Commit and push all changes to remote Github repository (forked one, not original one)
+4. Commit and push all changes to remote Github repository (forked one, not the original)
 
 ### Python
 
@@ -220,6 +220,8 @@ Software:
 Configure and deploy [your own IaC](https://github.com/groovy-sky/iaac-demo)
 
 ## Next steps
+
+![](img/finish.png)
 
 Congratulations! You have successfully completed this course! Now you can explore Azure by yourself. If you still wondering where to start, check following resources:
 
