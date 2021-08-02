@@ -1,8 +1,8 @@
 # DevOps-101
 
-## Introduction
-
 ![](img/logo.png)
+
+## Introduction
 
 This repository is designed to help anyone with very little or no computing background learn the basics of DevOps. Course is self-paced and when you’re finished with it, you’ll know how to manage resouces in Azure Cloud, using Infrastructure as Code approach. 
 
