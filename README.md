@@ -102,7 +102,7 @@ Software:
 ![](img/ci.png)
 
 1. [Continuous Integration Explained](https://aws.amazon.com/devops/continuous-integration/)
-2. [Create your first GitHub Action](https://lab.github.com/githubtraining/github-actions:-hello-world)
+2. [Create your first GitHub Action](https://docs.github.com/en/actions/quickstart)
 
 #### Continuous Integration Homework
 
@@ -198,8 +198,8 @@ Software:
 
 ![](img/ansible.png)
 
-1. [Ansible Introduction](https://developers.redhat.com/courses/ansible/getting-started)
-2. [Ansible Review](https://developers.redhat.com/courses/openshift-operators/ansible-review)
+1. [Ansible Overview](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview)
+2. [Ansible Introduction](https://developers.redhat.com/courses/ansible/getting-started)
 3. [Run web server using Ansible](https://developers.redhat.com/courses/ansible/web-server)
 4. [Ansible User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html#get)
 5. [Configure Ansible on an Azure VM](https://docs.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli)
